@@ -31,7 +31,6 @@ Make sure you have `npm` and `yarn` on your local machine
 * [Laravel](https://laravel.com.com/) - Beautiful Php framework
 * [Vue](https://vuejs.org/) - A Great reactive Js framework
 * [Vuex](https://vuex.vuejs.org/) - Vuejs state management made simple
-* [Bootstrap](https://getbootstrap.com) - A beautiful Css framework
 * [Axios](https://vuejs.org/) - A Js library to handle ajax requests easily
 
 ##Acknowledgments
